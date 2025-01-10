@@ -38,3 +38,29 @@ SYLLABUS TEMAS TOCADOS DE ACUERDO AL CERTIFICADO
 # Integración con el hardware
 
 - Camara y CoreLocation
+
+
+# ASYNC/AWAIT AND ACTORS - CONCURRENCY IN SWIFT IN UDEMY
+
+## SECCION 1: INTRODUCCION
+
+- Credit
+- Introducción
+- Requisitos
+- Futuros cambios en la concurrencia en API
+
+## SECCION 2: ENTENDIMIENTO DE PROGRAMACION CONCURRENTE EN IOS
+
+- Que es Concurrency
+- GCD (Grand Central Dispatch)
+- Resources
+
+## SECCION 3: EMPEZANDO CON ASYNC AWAIT
+
+- Definición de función async
+- Usando await
+- Usando el modificador Task
+- Llamando una función asíncrona en un contexto asíncrono.
+
+
+
