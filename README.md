@@ -64,3 +64,25 @@ SYLLABUS TEMAS TOCADOS DE ACUERDO AL CERTIFICADO
 
 
 
+
+# Curso de Aprende a desarrollar apps iOS con Swift
+
+- Introducción
+- Swift
+- Variables y tipos
+- Colecciones de datos
+- Tuplas y Enums
+- Sentencias de Control
+- Opcionales
+- Bucles
+- Clases y Structs
+- Funciones
+- Closures
+- Propiedades computadas
+- Herencia
+- Protocolos y delegados
+- Extensiones
+
+
+
+
