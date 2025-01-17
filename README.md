@@ -1,4 +1,4 @@
-# CERTIFICADOS-RELACIONADOS-A-TI
+# CERTIFICADOS JAIR RAMIREZ-GASTON
 
 SYLLABUS TEMAS TOCADOS DE ACUERDO AL CERTIFICADO
 
@@ -132,7 +132,7 @@ SYLLABUS TEMAS TOCADOS DE ACUERDO AL CERTIFICADO
 - Entendiendo Actors
 - Bank Account Ejemplo Usándotelas Actors
 - Ejemplo Actor: Cuenta de Banco Transfiere fondos
-- Entendiendo nonisolated keywod in Swift
+- Entendiendo nonisolated keyword in Swift
 - MainActor
 
 
@@ -154,6 +154,56 @@ SYLLABUS TEMAS TOCADOS DE ACUERDO AL CERTIFICADO
 - Protocolos y delegados
 - Extensiones
 
+# BUILD AND APP WITH SWIFTUI part 1
+
+- Learn SwiftUI for IOS 13
+- Layout and Stacks
+- Components and Visual Effects 2
+- Animations and States
+- Gestures and Events
+- Timing Curve and Delay
+- Dismiss And Drag Anchors
+- SF Symbols and Props
+- Color Literal, Gradient and Overlay
+- Animations Between Screens
+- Drag Progress an Tap
+- Binding and Screen size
+- ScrollView and Repeat
+- Data an Image Literal
+- 3D Scroll Animation
+- Modal Presentation
+- NavigationView and ListView
+- Navigation Style and Passing Data
+- Combine and Edit Data
+- Tab Bar and Test on Device
+
+# SWIFTUI NAVIGATION API
+
+## INTRODUCCION
+- REQUISITOS
+
+## INTRODUCCION A NAVIGATIONSTACK
+
+- HELLO NAVIGATIONSTACK
+- NAVIGATIONLINK WITH TITLE AND DESTINATION
+- NAVIGATIONLINK VALUE AND NAVIGATIONDESTINATION MODIFIER
+- NAVIGATIONLINK AND NAVIGATIONDESTIONATION FOR LISST
+
+## NAVEGACION PROGRAMATICA
+
+- INTRODUCTION TO PROGRAMMATIC NAVIGATION
+- ENUM ROUTES FOR NAVIGATION PATH
+- IMPLEMENTING GLOBAL NAVIGATION
+- NAVIGATIONPATH
+- POP TO ROOT AND POP TO SPECIFIC VIEW
+
+## NAVIGATIONSPLITVIEW
+
+- INTRODUCTION TO NAVIGATIONSPLITVIEW
+- SLIDEBAR AND DETAIL INTERACTION
+- SLIDEBAR MENU AND MOVIE LISTA AS DETAILS
+- SLIDE BAR, MOVIE LIST AND MOVIE DETAIL
+- NAVIGATIONSPLITVIEW WITH NAVIGATIONSTACK
 
 
-
+    
